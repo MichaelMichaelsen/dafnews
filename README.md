@@ -1,6 +1,6 @@
-# Quasar App (dafnews)
+# Dafnes
 
-A Quasar Framework app
+A Quasar Framework app to display the lastet messages on Datafordeler using quasar, rss feed
 
 ## Install the dependencies
 ```bash
