@@ -1,4 +1,4 @@
-# Dafnes
+# Dafnews
 
 A Quasar Framework app to display the lastet messages on Datafordeler using quasar, rss feed
 
